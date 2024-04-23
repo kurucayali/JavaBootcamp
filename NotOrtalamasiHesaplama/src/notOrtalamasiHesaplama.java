@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class notOrtalamasiHesaplama {
     public static void main(String[] args) {
         //Değişkenleri oluştur
         int mat, fizik, kimya, turkce, tarih, muzik;
